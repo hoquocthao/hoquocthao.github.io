@@ -14,7 +14,7 @@ role: information system
 
 # Organizations/Affiliations
 organizations:
-- name: Cân Thơ University
+- name: of Cân Thơ University
   url: "https://www.ctu.edu.vn/"
 
 # Short bio (displayed in user profile at end of posts)
