@@ -107,7 +107,7 @@ address = {street = "Hẻm 123, Trần Hưng Đạo", city = "phường xuân Kh
 contact_links = [
   {icon = "facebook", icon_pack = "fab", name = "Hồ Quốc Thảo", link = "https://www.facebook.com/profile.php?id=100006630633361"},
   {icon = "instagram", icon_pack = "fab", name = "qthao_h", link = "https://www.instagram.com/qthao_h/"},
-  {icon = "Email", icon_pack = "fab", name = "Hồ Quốc thảo", link = "thao291388@gmail.com"},
+  #{icon = "Email", icon_pack = "fab", name = "Hồ Quốc thảo", link = "thao291388@gmail.com"},
   #{icon = "comments", icon_pack = "fas", name = "Discuss on Forum", link = "https://discourse.gohugo.io"},
   # {icon = "telegram", icon_pack = "fab", name = "Telegram Me", link = "https://telegram.me/@Telegram"},
   ]
