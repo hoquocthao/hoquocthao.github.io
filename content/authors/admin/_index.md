@@ -10,11 +10,11 @@ authors:
 superuser: true
 
 # Role/position
-role: information system
+role: information system of
 
 # Organizations/Affiliations
 organizations:
-- name: of Cân Thơ University
+- name: Cân Thơ University
   url: "https://www.ctu.edu.vn/"
 
 # Short bio (displayed in user profile at end of posts)
