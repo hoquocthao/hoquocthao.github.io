@@ -5,7 +5,7 @@
 # Each configuration section is defined by a name in square brackets (e.g. `[outputs]`).
 
 # Title of your site
-title = "academic"
+title = "CV_hoquocthao"
 
 # The URL of your site.
 # End your URL with a `/` trailing slash, e.g. `https://example.com/`.
@@ -20,7 +20,7 @@ copyright = ""
 ############################
 
 # Name of Academic theme folder in `themes/`.
-theme = "academic"
+theme = "Hồ Quốc Thảo"
 
 # Get last modified date for content from Git?
 enableGitInfo = false
