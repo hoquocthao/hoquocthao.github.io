@@ -6,7 +6,7 @@ webhook_url:
 sections:
 - type: directory
   path: content/home
-  label: Home aaaa
+  label: Home
   create: all
   match: "**/*"
 - type: directory
